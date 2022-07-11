@@ -8,7 +8,7 @@ public class hw2 {
         float tickets = 5.62f;
         double table = 3.5678;
         int ageFriend = 25;
-        boolean FriendIsAdult = friend > 20;
+        boolean FriendIsAdult = friend > 21;
         System.out.println(FriendIsAdult);
 
         char a = 65;
